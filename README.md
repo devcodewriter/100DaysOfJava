@@ -5,3 +5,4 @@
 - [Day3: Operators in Java](https://monogr.ph/670f9ef965909feb6a4f31db)
 - [Day4: Control Structures in Java](https://monogr.ph/6711272ce758e8da719e1965)
 - [Day5: Arrays and Strings in Java](https://monogr.ph/6712c143d5489372fd4294a3)
+- [Day6: Functions (Methods) in Java](https://monogr.ph/6713c3ad8e1259b78086d58b)
