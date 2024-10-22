@@ -6,3 +6,4 @@
 - [Day4: Control Structures in Java](https://monogr.ph/6711272ce758e8da719e1965)
 - [Day5: Arrays and Strings in Java](https://monogr.ph/6712c143d5489372fd4294a3)
 - [Day6: Functions (Methods) in Java](https://monogr.ph/6713c3ad8e1259b78086d58b)
+- [Day7: Input/Output in Java](https://monogr.ph/671521a0d58c35b3bd140272)
