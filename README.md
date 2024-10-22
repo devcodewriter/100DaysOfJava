@@ -8,3 +8,4 @@
 - [Day6: Functions (Methods) in Java](https://monogr.ph/6713c3ad8e1259b78086d58b)
 - [Day7: Input/Output in Java](https://monogr.ph/671521a0d58c35b3bd140272)
 - [Day8: Java Memory Management](https://monogr.ph/671642bea11c0e812a0a1184)
+- [Day9: Understanding the static Keyword in Java](https://monogr.ph/67179b46abd1b0b20d860d91)
